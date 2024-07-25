@@ -13,9 +13,6 @@ Official Code for: Qianjun Huang, Guanyao Wu, Zhiying Jiang, Wei Fan*, Bin Xua a
 ## Network Architecture
 ![preview](imgs/framework(1).jpg)
 ---
-=======
-Official Code for: Qianjun Huang, Guanyao Wu, Zhiying Jiang, Wei Fan*, Bin Xu and Jinyuan Liu, **“Leveraging a Self-adaptive Mean Teacher Model for Semi-supervised Multi-Exposure Image Fusion”**.
-
 
 ## Set Up on Your Own Machine
 
