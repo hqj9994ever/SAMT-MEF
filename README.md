@@ -1,5 +1,5 @@
 # SAMT-MEF
-<<<<<<< HEAD
+
 Official Code for: Qianjun Huang, Guanyao Wu, Zhiying Jiang, Wei Fan*, Bin Xua and Jinyuan Liu, **“Leveraging a Self-adaptive Mean Teacher Model for Semi-supervised Multi-Exposure Image Fusion”**, Information Fusion[J], 2024.
 
 - [*[Information Fusion]*](https://www.sciencedirect.com/science/article/pii/S1566253524003129)
@@ -15,7 +15,7 @@ Official Code for: Qianjun Huang, Guanyao Wu, Zhiying Jiang, Wei Fan*, Bin Xua a
 ---
 =======
 Official Code for: Qianjun Huang, Guanyao Wu, Zhiying Jiang, Wei Fan*, Bin Xu and Jinyuan Liu, **“Leveraging a Self-adaptive Mean Teacher Model for Semi-supervised Multi-Exposure Image Fusion”**.
->>>>>>> 6baa93cfc78898c164aa59e2fcc505900be73d03
+
 
 ## Set Up on Your Own Machine
 
