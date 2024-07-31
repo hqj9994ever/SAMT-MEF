@@ -47,10 +47,10 @@ ___
 
 <img src="imgs\sequence_0.jpg"/>
 
-### SICE Dataset
+### Visual Comparison on SICE Dataset
 <img src="imgs\sequence_1.jpg"/>
 
-### MEF Dataset
+### Visual Comparison on MEF Dataset
 <img src="imgs\sequence_4.jpg"/>
 
 ### Application on High-level task
