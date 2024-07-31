@@ -42,11 +42,27 @@ python train.py
 python test.py
 
 ```
+## Comparison
+___
+
+<img src="imgs\sequence_0.jpg"/>
+
+### SICE Dataset
+<img src="imgs\sequence_1.jpg"/>
+
+### MEF Dataset
+<img src="imgs\sequence_4.jpg"/>
+
+### Application on High-level task
+<img src="imgs\sequence_9.jpg"/>
+
+___
+
 ## Citation
 
 If this work has been helpful to you, we would appreciate it if you could cite our paper! 
 
-```
+```BibTex
 @article{huang2024leveraging,
   title={Leveraging a self-adaptive mean teacher model for semi-supervised multi-exposure image fusion},
   author={Huang, Qianjun and Wu, Guanyao and Jiang, Zhiying and Fan, Wei and Xu, Bin and Liu, Jinyuan},
