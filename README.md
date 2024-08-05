@@ -1,6 +1,6 @@
 # [SAMT-MEF](https://www.sciencedirect.com/science/article/pii/S1566253524003129)
 
-Official Code for: Qianjun Huang, Guanyao Wu, Zhiying Jiang, Wei Fan*, Bin Xua and Jinyuan Liu, **“Leveraging a Self-adaptive Mean Teacher Model for Semi-supervised Multi-Exposure Image Fusion”**, Information Fusion[J], 2024.
+Official Code for: Qianjun Huang, Guanyao Wu, Zhiying Jiang, Wei Fan*, Bin Xu and Jinyuan Liu, **“Leveraging a Self-adaptive Mean Teacher Model for Semi-supervised Multi-Exposure Image Fusion”**, Information Fusion[J], 2024.
 
 - [*[Information Fusion]*](https://www.sciencedirect.com/science/article/pii/S1566253524003129)
 - [*[Google Scholar]*](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Leveraging+a+self-adaptive+mean+teacher+model+for+semi-supervised+multi-exposure+image+fusion&btnG=)
@@ -47,15 +47,17 @@ ___
 
 <img src="imgs\sequence_0.jpg"/>
 
-### Visual Comparison on SICE Dataset
+### Visual Comparison on [SICE](https://github.com/csjcai/SICE#learning-a-deep-single-image-contrast-enhancer-from-multi-exposure-images) Dataset
 <img src="imgs\sequence_1.jpg"/>
 
-### Visual Comparison on MEF Dataset
+### Visual Comparison on [MEF](https://github.com/hangxiaotian/Perceptual-Multi-exposure-Image-Fusion) Dataset
 <img src="imgs\sequence_4.jpg"/>
 
 ### Application on High-level task
 <img src="imgs\sequence_9.jpg"/>
 
+### Quantitative comparison on [SICE](https://github.com/csjcai/SICE#learning-a-deep-single-image-contrast-enhancer-from-multi-exposure-images) and [Mobile](https://github.com/Hedlen/MEFLUT) Dataset
+<img src="imgs\table.png"/>
 ___
 
 ## Citation
