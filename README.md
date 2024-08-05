@@ -58,7 +58,8 @@ ___
 
 ### Quantitative comparison on [SICE](https://github.com/csjcai/SICE#learning-a-deep-single-image-contrast-enhancer-from-multi-exposure-images) and [Mobile](https://github.com/Hedlen/MEFLUT) Dataset
 <img src="imgs\table.png"/>
-___
+
+____
 
 ## Citation
 
