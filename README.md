@@ -38,7 +38,7 @@ python create_candidate.py
 python train.py
 ```
 ### Test
-You can find the pre-trained checkpoint in `./model/ckpt` document.
+You can find the pre-trained checkpoint in `./model/ckpt`.
 ```shell
 # Test: 
 python test.py
