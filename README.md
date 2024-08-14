@@ -5,7 +5,7 @@ Official Code for: Qianjun Huang, Guanyao Wu, Zhiying Jiang, Wei Fan*, Bin Xu an
 - [*[Information Fusion]*](https://www.sciencedirect.com/science/article/pii/S1566253524003129)
 - [*[Google Scholar]*](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Leveraging+a+self-adaptive+mean+teacher+model+for+semi-supervised+multi-exposure+image+fusion&btnG=)
 
-## Workflow of SAMT-MEF
+## :globe_with_meridians: Overview
 ---
 
 ![preview](imgs/framework.jpg)
@@ -15,7 +15,7 @@ Official Code for: Qianjun Huang, Guanyao Wu, Zhiying Jiang, Wei Fan*, Bin Xu an
 
 ---
 
-## Set Up on Your Own Machine
+## :computer: Set Up on Your Own Machine
 
 ### Virtual Environment
 
@@ -38,18 +38,25 @@ python create_candidate.py
 python train.py
 ```
 ### Test
+You can find the pre-trained checkpoint in `./model/ckpt` document.
 ```shell
 # Test: 
 python test.py
 
 ```
-## Comparison
+## :mag_right: Comparison
 ___
+
+### Preview
 
 <img src="imgs\sequence_0.jpg"/>
 
 ### Visual Comparison on [SICE](https://github.com/csjcai/SICE#learning-a-deep-single-image-contrast-enhancer-from-multi-exposure-images) Dataset
 <img src="imgs\sequence_1.jpg"/>
+
+### Visual Comparison on [Mobile](https://github.com/Hedlen/MEFLUT) Dataset
+
+<img src="imgs\sequence_3.jpg"/>
 
 ### Visual Comparison on [MEF](https://github.com/hangxiaotian/Perceptual-Multi-exposure-Image-Fusion) Dataset
 <img src="imgs\sequence_4.jpg"/>
@@ -62,7 +69,7 @@ ___
 
 ____
 
-## Citation
+## :pushpin: Citation
 
 If this work has been helpful to you, we would appreciate it if you could cite our paper! 
 
@@ -76,3 +83,6 @@ If this work has been helpful to you, we would appreciate it if you could cite o
   publisher={Elsevier}
 }
 ```
+## :email:Contact
+
+If you have any questions, please feel free to reach out at `hqj9994ever@gmail.com`. 
